@@ -63,14 +63,14 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 ### Stack / 技术栈
 
 <p align="center">
-  <sub><b>数据</b> · Data</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="40" alt="Python, scikit-learn, MySQL, D3">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>构建</b> · Build</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" height="40" alt="JavaScript, Node.js, HTML, CSS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>平台</b> · Platform</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,github&theme=dark" height="40" alt="Cloudflare, Workers, Vercel, GitHub">
+  <sub><b>数据</b></sub>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="34" alt="Python, scikit-learn, MySQL, D3">
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>构建</b></sub>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" height="34" alt="JavaScript, Node.js, HTML, CSS">
+  &nbsp;&nbsp;&nbsp;
+  <sub><b>平台</b></sub>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,github&theme=dark" height="34" alt="Cloudflare, Workers, Vercel, GitHub">
 </p>
 
 <p align="center">
