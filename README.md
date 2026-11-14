@@ -3,18 +3,22 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://github.com/Memgin">GitHub</a> · <a href="mailto:lanmangin@outlook.com">Email</a> · <a href="#selected-work--精选项目">项目</a> · <a href="#science--研究">论文</a> · <a href="AWARDS.md">奖项</a></sub>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Turning+Data+Into+Decisions;Operations+Research+%26+Geospatial+Modeling;From+Fuzzy+Questions+to+Computable+Metrics" alt="Turning Data Into Decisions"></a>
 </p>
+
+<p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GitHub-3E2A22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-C0392B?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work--精选项目"><img src="https://img.shields.io/badge/Projects-B45309?style=for-the-badge" height="32" alt="Projects"></a><a href="#science--研究"><img src="https://img.shields.io/badge/Paper-7C2D12?style=for-the-badge" height="32" alt="Paper"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/Awards-A13D5C?style=for-the-badge" height="32" alt="Awards"></a></p>
 
 <p align="center">
   <sub>B.Sc. Data Science &amp; Big Data · Class of 2028 · Qingyuan / Shenzhen, CN · CDA Level I Analyst</sub>
 </p>
 
+<div align="center">
+  <h3>⚡ 关于我</h3>
+  <p>我在广东金融学院读数据科学与大数据技术，方向偏运筹优化和统计建模。课上学的是方法，课下我更喜欢把方法做成能跑起来的东西，所以做了地图、小程序，也做过选址和排班。</p>
+  <p>动手之前我通常会先问一句，这个结果最后要影响哪个决定。如果算完没有人会因此改变做法，那这个分析大概可以先放一放。</p>
+</div>
+
 ---
-
-我在广东金融学院读数据科学与大数据技术，方向偏运筹优化和统计建模。课上学的是方法，课下我更喜欢把方法做成能跑起来的东西，所以做了地图、小程序，也做过选址和排班。
-
-动手之前我通常会先问一句，这个结果最后要影响哪个决定。如果算完没有人会因此改变做法，那这个分析大概可以先放一放。
 
 ### Now / 现在
 

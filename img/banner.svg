@@ -1,22 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Memgin — Data Analysis, Operations Research, Geospatial">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2E1508"/>
-      <stop offset="0.55" stop-color="#8A3D1B"/>
-      <stop offset="1" stop-color="#C2703D"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0.6">
+      <stop offset="0" stop-color="#F6C6B0"/>
+      <stop offset="0.5" stop-color="#E8948F"/>
+      <stop offset="1" stop-color="#D2737F"/>
     </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#7A3B36" flood-opacity="0.38"/>
+    </filter>
     <style>
-      .title{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:74px;letter-spacing:2px;fill:#FFF8F1}
-      .desc{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500;font-size:19px;letter-spacing:3px;fill:#F3CCA8}
+      .title{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:74px;letter-spacing:2px;fill:#FFFFFF}
+      .desc{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:600;font-size:19px;letter-spacing:3px;fill:#FFF3EE}
       .fade1{animation:fade 1.1s ease-out both}
       .fade2{animation:fade 1.1s ease-out .35s both}
       @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
     </style>
   </defs>
 
-  <path fill="url(#sky)" opacity="0.55" d="M0 0 H1200 V252 C1060 274 930 282 790 272 C640 262 500 288 350 278 C210 269 100 258 0 274 Z"/>
+  <path fill="url(#sky)" opacity="0.5" d="M0 0 H1200 V252 C1060 274 930 282 790 272 C640 262 500 288 350 278 C210 269 100 258 0 274 Z"/>
   <path fill="url(#sky)" d="M0 0 H1200 V226 C1055 250 940 262 800 252 C655 242 515 268 360 260 C215 253 105 240 0 252 Z"/>
 
-  <text class="title fade1" x="600" y="138" text-anchor="middle">Memgin</text>
-  <text class="desc fade2" x="600" y="182" text-anchor="middle">DATA ANALYSIS · OPERATIONS RESEARCH · GEOSPATIAL</text>
+  <g filter="url(#soft)">
+    <text class="title fade1" x="600" y="138" text-anchor="middle">Memgin</text>
+    <text class="desc fade2" x="600" y="182" text-anchor="middle">DATA ANALYSIS · OPERATIONS RESEARCH · GEOSPATIAL</text>
+  </g>
 </svg>
