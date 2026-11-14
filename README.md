@@ -6,68 +6,81 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=660&height=50&lines=Turning+Data+Into+Decisions;Operations+Research+%26+Geospatial;Turning+Vague+Questions+into+Metrics" alt="Turning Data Into Decisions"></a>
 </p>
 
-<p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GitHub-3E2A22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-C0392B?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work--精选项目"><img src="https://img.shields.io/badge/Projects-B45309?style=for-the-badge" height="32" alt="Projects"></a><a href="#science--研究"><img src="https://img.shields.io/badge/Paper-7C2D12?style=for-the-badge" height="32" alt="Paper"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/Awards-A13D5C?style=for-the-badge" height="32" alt="Awards"></a></p>
+<p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GitHub-3E2A22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-C0392B?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work"><img src="https://img.shields.io/badge/Projects-B45309?style=for-the-badge" height="32" alt="Projects"></a><a href="#science"><img src="https://img.shields.io/badge/Paper-7C2D12?style=for-the-badge" height="32" alt="Paper"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/Awards-A13D5C?style=for-the-badge" height="32" alt="Awards"></a></p>
 
 <p align="center">
   <sub>B.Sc. Data Science &amp; Big Data · Class of 2028 · Qingyuan / Shenzhen, CN · CDA Level I Analyst</sub>
 </p>
 
 <div align="center">
-  <h3>⚡ 关于我</h3>
-  <p>我在广东金融学院读数据科学与大数据技术，方向偏运筹优化和统计建模。课上学的是方法，课下我更喜欢把方法做成能跑起来的东西，所以做了地图、小程序，也做过选址和排班。</p>
-  <p>动手之前我会先问一句，这个结果要影响哪个决定。如果没人会因此改变做法，就先放一放。</p>
+  <h3>⚡ About</h3>
+  <p>I study Data Science and Big Data at Guangdong University of Finance, mainly operations research and statistical modeling. The methods come from class, but I like them better when they actually run, so I have built maps and mini programs.</p>
+  <p>Before starting anything I ask what decision the result is supposed to change. If nobody would act differently after seeing it, I put the analysis aside.</p>
 </div>
 
 ---
 
-### Now / 现在
+### Now
 
-**清远社区共享地图** · `Cloudflare Pages + D1 + R2` `高德` `智谱`<br>
-给清远做的一张社区地图，用户看到的是别人愿意分享的地点。底层是一套标签和权限结构，AI 向导 Lumina 按地点之间的关系给出路线，应急图层单独留了一个入口。Web、HarmonyOS 客户端和后台共用同一套数据模型，改一处三端都生效。<br>
+**Qingyuan Community Map** · `Cloudflare Pages + D1 + R2` `AMap` `Zhipu AI`
+
+A community map for Qingyuan. What users see is the places other people chose to share. Underneath sits a tagging and permission structure; an AI guide named Lumina suggests routes from how places relate to each other, and the emergency layer has its own entrance. The web app, the HarmonyOS client and the backend share one data model, so a change lands on all three at once.
+
 [Memgin/qingyuan-community-map](https://github.com/Memgin/qingyuan-community-map) · [qymap.pages.dev](https://qymap.pages.dev/)
 
-**悉数 Xishu** · `微信小程序` `云开发` `Node.js`<br>
-个人的资产记录与分析工具，管多币种账户、汇率、风险敞口和目标进度。AI 的部分只负责一件事，从流水里看出趋势和异常。<br>
+**Xishu** · `WeChat Mini Program` `Cloud Base` `Node.js`
+
+A personal tool for recording and analyzing assets: multi-currency accounts, exchange rates, risk exposure, goal progress. The AI part does exactly one thing, spotting trends and anomalies in transaction records.
+
 [Memgin/xishu](https://github.com/Memgin/xishu)
 
-### Selected Work / 精选项目
+### Selected Work
 
-**电动汽车充电站运营决策** · `运筹优化` `时空预测` `闭环协同`<br>
-先预测各区域车辆到达的时间和空间分布，再把运营中积累的数据回灌到排程里，选址和调度放进同一个目标函数求解。分开做的时候，两边的结论经常互相打架。<br>
-**2026 中国运筹学会运筹竞赛（本科组）· 国家一等奖 金奖** · *代码未公开（赛题约束）*
+**EV Charging Station Operations** · `Operations Research` `Spatiotemporal Forecasting` `Closed-loop`
 
-**长江渔业生态演化与人类活动效应评估** · `复杂网络` `动力学建模` `情景模拟`<br>
-用多营养级食物网搭动力学模型，把捕捞强度和航运干扰作为可调的输入，看不同情景下各营养级的种群长期会稳定在什么水平。<br>
-**广州高校数学建模竞赛 · 三等奖**
+First forecast when and where EVs will arrive in each district, then feed the operating data back into scheduling, so siting and dispatch are solved in one objective function. Solve them separately and the two answers tend to contradict each other.
 
-**正大杯市场调研（第 15 / 16 届）** · `问卷设计` `统计检验`<br>
-十五届和十六届都参加了，负责团队的数据分析，从清洗、交叉分析一直做到把结果讲清楚。
+**2026 ORSC Competition, Undergraduate Track · National First Prize, Gold** · *Code withheld (competition rules)*
 
-**霓窗仔 · 岭南文化 IP 文创设计** · `文化转译` `视觉系统`<br>
-从骑楼和满洲窗里提取图形元素，整理成一套可以反复使用的视觉语言，再做延展到实物上。
+**Yangtze Fishery Ecosystem** · `Complex Networks` `Dynamic Modeling` `Scenario Simulation`
+
+A dynamic model of a multi-trophic food web, with fishing intensity and shipping disturbance as adjustable inputs, tracking where each trophic level settles in the long run under different scenarios.
+
+**Guangzhou Intercollegiate Mathematical Contest in Modeling · Third Prize**
+
+**Zhengda Cup Market Research (15th / 16th)** · `Questionnaire Design` `Statistical Testing`
+
+I joined both the 15th and 16th editions as the team's data analyst, from cleaning and cross-tabulation to presenting the findings clearly.
+
+**NiChuangZai · Lingnan Culture IP Design** · `Cultural Translation` `Visual Identity`
+
+Graphic elements pulled from qilou arcades and Manchurian windows, organized into a reusable visual language, then extended onto physical products.
 
 <p align="center">
-  <img src="img/neichuang/street.webp" height="200" alt="霓窗仔 街头版">
-  <img src="img/neichuang/harbor.webp" height="200" alt="霓窗仔 海港版">
-  <img src="img/neichuang/festival.webp" height="200" alt="霓窗仔 节庆版">
+  <img src="img/neichuang/street.webp" height="200" alt="NiChuangZai Street edition">
+  <img src="img/neichuang/harbor.webp" height="200" alt="NiChuangZai Harbor edition">
+  <img src="img/neichuang/festival.webp" height="200" alt="NiChuangZai Festival edition">
 </p>
 
-<p align="center"><sub>街头版 · 海港版 · 节庆版，同一套图形语汇的三种落地</sub></p>
+<p align="center"><sub>Street · Harbor · Festival, one visual language landing three ways</sub></p>
 
-### Science / 研究
+### Science
 
-**Beyond Model Complexity: The Incremental Value of Volatility Features in Multi-Horizon Stock Risk Prediction**<br>
-M. Lin · J. Bi · J. Hu · K. Yan, *School of Data Science and Artificial Intelligence, Guangdong University of Finance*<br>
-文章讨论的是一个被默认很久的假设，即模型越复杂，风险预测就越准。我们在多个预测期限上做对照，把波动率特征带来的增益、加深加宽模型带来的增益分开度量，看提升究竟来自哪一边。<br>
-*2026.12 待刊，预印本与 DOI 之后补上*
+**Beyond Model Complexity: The Incremental Value of Volatility Features in Multi-Horizon Stock Risk Prediction**
 
-### Stack / 技术栈
+M. Lin · J. Bi · J. Hu · K. Yan, *School of Data Science and Artificial Intelligence, Guangdong University of Finance*
+
+The paper takes on an assumption that has gone unchallenged for a long time: the more complex the model, the better the risk forecast. Across several horizons we measure the gain from volatility features and the gain from extra depth and width separately, to see which side the improvement actually comes from.
+
+*Forthcoming December 2026 · preprint and DOI to follow*
+
+### Stack
 
 <table align="center">
   <tr>
-    <td align="center" width="380"><sub><b>数据 · Data</b></sub></td>
-    <td align="center" width="380"><sub><b>构建 · Build</b></sub></td>
-    <td align="center" width="380"><sub><b>平台 · Platform</b></sub></td>
+    <td align="center" width="380"><sub><b>Data</b></sub></td>
+    <td align="center" width="380"><sub><b>Build</b></sub></td>
+    <td align="center" width="380"><sub><b>Platform</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="40" alt="Python, scikit-learn, MySQL, D3"></td>
@@ -81,67 +94,67 @@ M. Lin · J. Bi · J. Hu · K. Yan, *School of Data Science and Artificial Intel
 </p>
 
 <p align="center">
-  <sub>运筹优化 · 时空预测 · 网络动力学 · 情景模拟</sub>
+  <sub>Operations research · Spatiotemporal forecasting · Network dynamics · Scenario simulation</sub>
 </p>
 
-### Experience / 经历
+### Experience
 
 <table align="center">
   <tr>
-    <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--%E8%87%B3%E4%BB%8A-cf222e?style=flat-square" alt="2024.09 – 至今" height="20"></td>
+    <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--Present-cf222e?style=flat-square" alt="2024.09 – Present" height="20"></td>
     <td valign="top" width="800">
-      <b>助理班主任 · 班级学习委员</b> @ <a href="https://www.gduf.edu.cn"><b>广东金融学院</b></a>
-      <blockquote><i>第一次完整带一个班，从开学前的筹备做到学期中段。</i></blockquote>
+      <b>Assistant Class Advisor · Study Committee Member</b> @ <a href="https://www.gduf.edu.cn"><b>Guangdong University of Finance</b></a>
+      <blockquote><i>First time taking a class from orientation through the middle of the semester.</i></blockquote>
       <ul>
-        <li>组织破冰活动、班委搭建与学业规划，累计协助解决二十余件具体问题</li>
-        <li>牵头组建学习小组，组内零挂科，成员绩点均在 3.0 以上</li>
-        <li>综合测评 1/52、绩点 3.63；获校级「十佳助班」「优秀学生骨干」</li>
+        <li>Organized icebreakers, set up the class committee and planned coursework; helped resolve twenty-plus concrete issues</li>
+        <li>Started study groups; zero failed courses in the group, every member above GPA 3.0</li>
+        <li>Ranked 1/52 in comprehensive assessment, GPA 3.63; campus-wide Top 10 Class Advisor and Outstanding Student Leader</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2026.01-0969da?style=flat-square" alt="2026.01" height="20"></td>
     <td valign="top" width="800">
-      <b>文书</b> @ <b>清远市职教城党群服务中心</b>
-      <blockquote><i>在基层单位写材料，写的东西当天就要发出去。</i></blockquote>
+      <b>Clerk</b> @ <b>Qingyuan Vocational Education Town Party-Mass Service Center</b>
+      <blockquote><i>Writing for a grassroots office, where what you draft goes out the same day.</i></blockquote>
       <ul>
-        <li>起草活动简报、工作总结、会议纪要，兼部分宣传材料编撰</li>
-        <li>熟悉基层行政流程与公文规范，把话写清楚比写漂亮更要紧</li>
+        <li>Drafted event briefs, work summaries and meeting minutes, plus some promotional material</li>
+        <li>Learned grassroots administrative workflows in practice; getting it clear matters more than getting it pretty</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2025.06--07-8250df?style=flat-square" alt="2025.06 – 07" height="20"></td>
     <td valign="top" width="800">
-      <b>深圳区域访问员</b> @ <b>中国社会科学院 · 中国社会状况综合调查（CSS）</b>
-      <blockquote><i>入户之后才明白样本是怎么偏的。</i></blockquote>
+      <b>Field Interviewer, Shenzhen</b> @ <b>Chinese Academy of Social Sciences · Chinese Social Survey (CSS)</b>
+      <blockquote><i>Only after knocking on doors did I understand how samples actually skew.</i></blockquote>
       <ul>
-        <li>入户访谈与数据采集，完成 82 份有效问卷的发放与核验</li>
-        <li>在入户现场理解抽样偏差与数据核验的实际约束，而不是纸面上的定义</li>
+        <li>Conducted household interviews and data collection; delivered and verified 82 valid questionnaires</li>
+        <li>Saw sampling bias and verification constraints in the field, not on paper</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### Honors / 荣誉
+### Honors
 
-> 🏅 **[View Awards →](AWARDS.md)**　完整奖项、证书和服务记录
+> 🏅 **[View Awards →](AWARDS.md)**　full list of awards, certificates and service records
 
-- **2026**　中国运筹学会运筹竞赛（本科组）国家一等奖 · 金奖
-- **2026**　第二十一届海峡两岸暨港澳地区大学生计算创新作品赛 · 三等奖
-- **2026**　全国大学生数据分析科普竞赛 · 一等奖
-- **2026**　校级「金融之星」· 「优秀共青团员」· 「十佳助班」
-- **2025**　校级「优秀学生骨干」· 优秀学生一等奖学金 · 职业技能奖学金
-- **2025**　广州高校数学建模竞赛 · 三等奖 · 「学风建设榜样青年讲师」
+- **2026**　ORSC Competition (Undergraduate Track) National First Prize · Gold
+- **2026**　21st Cross-Strait and Hong Kong-Macao University Student Computing Innovation Contest · Third Prize
+- **2026**　National College Student Data Analysis Competition · First Prize
+- **2026**　Campus "Finance Star" · "Outstanding League Member" · "Top 10 Class Advisor"
+- **2025**　Campus "Outstanding Student Leader" · First-Class Academic Scholarship · Vocational Skill Scholarship
+- **2025**　Guangzhou Intercollegiate Mathematical Contest in Modeling · Third Prize · "Model Youth Lecturer for Study Atmosphere"
 
-<sub>已取得 CDA 数据分析师一级、CET-6、全国计算机二级、银行从业资格和中国社会科学院访问员资格。</sub>
+<sub>Certifications: CDA Level I Data Analyst, CET-6, NCRE Level 2, Banking Qualification, and CASS field interviewer.</sub>
 
-### Elsewhere / 别处
+### Elsewhere
 
-公开的仓库只有两个，过去一年提交一百多次，大部分时间花在地图和小程序上。零散的东西我没有搬到主页上，做出来的都放在仓库里。
+Two public repositories, one hundred-plus commits over the past year, most of the time spent on the map and the mini program. The scattered stuff never made it to this page; what got built lives in the repos.
 
-我在找数据分析或者运筹优化方向的实习和研究机会。如果你手上有个说不清楚但感觉能算的问题，欢迎写信给我，**[lanmangin@outlook.com](mailto:lanmangin@outlook.com)**
+I am looking for internships and research openings in data analysis or operations research. If you have a vague problem that feels computable, write to me at **lanmangin@outlook.com**
 
 ---
 
-<sub>最后更新 2026.11</sub>
+<sub>Last updated 2026.11</sub>
