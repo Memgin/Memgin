@@ -52,14 +52,14 @@ A dynamic model of a multi-trophic food web, with fishing intensity and shipping
 
 I joined both the 15th and 16th editions as the team's data analyst, from cleaning and cross-tabulation to presenting the findings clearly.
 
-**NiChuangZai · Lingnan Culture IP Design** · `Cultural Translation` `Visual Identity`
+**Lumina · Lingnan Culture IP Design** · `Cultural Translation` `Visual Identity`
 
 Graphic elements pulled from qilou arcades and Manchurian windows, organized into a reusable visual language, then extended onto physical products.
 
 <p align="center">
-  <img src="img/neichuang/street.webp" height="200" alt="NiChuangZai Street edition">
-  <img src="img/neichuang/harbor.webp" height="200" alt="NiChuangZai Harbor edition">
-  <img src="img/neichuang/festival.webp" height="200" alt="NiChuangZai Festival edition">
+  <img src="img/neichuang/street.webp" height="200" alt="Lumina Street edition">
+  <img src="img/neichuang/harbor.webp" height="200" alt="Lumina Harbor edition">
+  <img src="img/neichuang/festival.webp" height="200" alt="Lumina Festival edition">
 </p>
 
 <p align="center"><sub>Street · Harbor · Festival, one visual language landing three ways</sub></p>
