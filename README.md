@@ -60,30 +60,65 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 ### Stack / 技术栈
 
-```text
-data     Python · pandas · NumPy · Matplotlib · scikit-learn · SQL
-model    运筹优化 · 时间序列 / 时空预测 · 网络动力学 · 情景模拟
-build    JavaScript · Node.js · 微信小程序 / 云开发 · Cloudflare Workers · HTML / CSS
-write    LaTeX · Markdown · 调研报告与公文
-```
+<table width="100%">
+  <tr>
+    <td align="center" width="34%"><sub><b>数据 · Data</b></sub></td>
+    <td align="center" width="33%"><sub><b>构建 · Build</b></sub></td>
+    <td align="center" width="33%"><sub><b>平台 · Platform</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="42" alt="Python, scikit-learn, MySQL, D3"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" height="42" alt="JavaScript, Node.js, HTML, CSS"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,github&theme=dark" height="42" alt="Cloudflare, Workers, Vercel, GitHub"></td>
+  </tr>
+</table>
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,nodejs,sklearn,git,latex,cloudflare,workers&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,sklearn,git,latex,cloudflare,workers&theme=light" alt="Python, JavaScript, Node.js, scikit-learn, Git, LaTeX, Cloudflare Workers">
-  </picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,latex,markdown,bash,powershell,npm&theme=dark" height="38" alt="VS Code, Git, LaTeX, Markdown, Bash, PowerShell, npm">
+</p>
+
+<p align="center">
+  <sub>图标之外：运筹优化 · 时空预测 · 网络动力学 · 情景模拟</sub>
 </p>
 
 ### Experience / 经历
 
-**广东金融学院** — 2025 级助理班主任 · 班级学习委员 — `2024.09 – 至今`<br>
-带新生班从入学筹备走到学期中段，累计处理二十余件具体问题；牵头组建学习小组，组内零挂科。综合测评 1/52，绩点 3.63。
-
-**中国社会科学院 · 中国社会状况综合调查（CSS）** — 深圳区域访问员 — `2025.06 – 07`<br>
-入户访谈与数据采集，完成 82 份有效问卷的发放与核验。这段经历教会我的不是问卷，是**样本为什么会偏**。
-
-**清远市职教城党群服务中心** — 文书 — `2026.01`<br>
-活动简报、工作总结、会议纪要的起草与整理，兼部分宣传材料编撰。
+<table>
+  <tr>
+    <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--%E8%87%B3%E4%BB%8A-cf222e?style=flat-square" alt="2024.09 – 至今" height="20"></td>
+    <td valign="top">
+      <b>助理班主任 · 班级学习委员</b> @ <a href="https://www.gduf.edu.cn"><b>广东金融学院</b></a>
+      <blockquote><i>带一个新生班，从入学筹备走到学期中段。</i></blockquote>
+      <ul>
+        <li>组织破冰活动、班委搭建与学业规划，累计协助解决二十余件具体问题</li>
+        <li>牵头组建学习小组，组内零挂科，成员绩点均在 3.0 以上</li>
+        <li>综合测评 1/52、绩点 3.63；获校级「十佳助班」「优秀学生骨干」</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="134"><img src="https://img.shields.io/badge/2026.01-0969da?style=flat-square" alt="2026.01" height="20"></td>
+    <td valign="top">
+      <b>文书</b> @ <b>清远市职教城党群服务中心</b>
+      <blockquote><i>基层公文写作的实战现场。</i></blockquote>
+      <ul>
+        <li>起草活动简报、工作总结、会议纪要，兼部分宣传材料编撰</li>
+        <li>熟悉基层行政流程与公文规范，把「写清楚」当成硬指标</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="134"><img src="https://img.shields.io/badge/2025.06--07-8250df?style=flat-square" alt="2025.06 – 07" height="20"></td>
+    <td valign="top">
+      <b>深圳区域访问员</b> @ <b>中国社会科学院 · 中国社会状况综合调查（CSS）</b>
+      <blockquote><i>这段经历教会我的不是问卷，是样本为什么会偏。</i></blockquote>
+      <ul>
+        <li>入户访谈与数据采集，完成 82 份有效问卷的发放与核验</li>
+        <li>在入户现场理解抽样偏差与数据核验的实际约束，而非纸面定义</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### Honors / 荣誉
 
