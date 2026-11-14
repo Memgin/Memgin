@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E5%8F%AF%E5%BA%A6%E9%87%8F%E7%9A%84%E6%8C%87%E6%A0%87%3B%E5%86%8D%E6%8A%8A%E5%AE%83%E7%AE%97%E6%B8%85%E6%A5%9A&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=9198A1">
-    <img src="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E5%8F%AF%E5%BA%A6%E9%87%8F%E7%9A%84%E6%8C%87%E6%A0%87%3B%E5%86%8D%E6%8A%8A%E5%AE%83%E7%AE%97%E6%B8%85%E6%A5%9A&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=57606A" alt="数据分析 · 运筹优化 · 地理信息">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E8%AF%B4%E4%B8%8D%E6%B8%85%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E8%83%BD%E7%AE%97%E7%9A%84%E6%A0%B7%E5%AD%90&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=9198A1">
+    <img src="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E8%AF%B4%E4%B8%8D%E6%B8%85%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E8%83%BD%E7%AE%97%E7%9A%84%E6%A0%B7%E5%AD%90&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=57606A" alt="数据分析 · 运筹优化 · 地理信息">
   </picture>
 </p>
 
@@ -23,42 +23,42 @@
 
 ---
 
-我在广东金融学院读数据科学与大数据技术，训练重心在运筹优化与统计建模，动手的部分偏工程——把模型落到地图、小程序和调度策略上。
+我在广东金融学院读数据科学与大数据技术，方向偏运筹优化和统计建模。课上学的是方法，课下我更喜欢把方法做成能跑起来的东西，所以做了地图、小程序，也做过选址和排班。
 
-判断一个分析值不值得做，我只看一件事：**它能不能改变某个具体的决定**。哪一个充电站该扩容、哪一条巷子该被标进地图、哪一笔资产该被提前赎回。算不动的指标，我宁可不要。
+动手之前我通常会先问一句，这个结果最后要影响哪个决定。如果算完没有人会因此改变做法，那这个分析大概可以先放一放。
 
 ### Now / 现在
 
 **清远社区共享地图** · `Cloudflare Pages + D1 + R2` `高德` `智谱`<br>
-对外是一张「清远人的私藏地图」，对内是一套标签与权限系统：AI 向导 Lumina 把散落的地点串成贴路的路线，子标签体系让内容可检索，应急图层负责出事那一天。三端同源——Web、HarmonyOS、管理后台共享同一套数据模型。<br>
+给清远做的一张社区地图，用户看到的是别人愿意分享的地点。底层是一套标签和权限结构，AI 向导 Lumina 按地点之间的关系给出路线，应急图层单独留了一个入口。Web、HarmonyOS 客户端和后台共用同一套数据模型，改一处三端都生效。<br>
 [Memgin/qingyuan-community-map](https://github.com/Memgin/qingyuan-community-map) · [qymap.pages.dev](https://qymap.pages.dev/)
 
 **悉数 Xishu** · `微信小程序` `云开发` `Node.js`<br>
-个人资产全生命周期管理：多币种账户、汇率、风险敞口、目标管理，AI 负责把流水翻译成判断，而不是再给你多一张报表。<br>
+个人的资产记录与分析工具，管多币种账户、汇率、风险敞口和目标进度。AI 的部分只负责一件事，从流水里看出趋势和异常。<br>
 [Memgin/xishu](https://github.com/Memgin/xishu)
 
 ### Selected Work / 精选项目
 
 **电动汽车充电站运营决策** · `运筹优化` `时空预测` `闭环协同`<br>
-先预测区域到达强度的时空分布，再把运营反馈回灌进排程——「建在哪」和「怎么调」被放进同一个目标函数里求解，而不是分两步各算各的。<br>
+先预测各区域车辆到达的时间和空间分布，再把运营中积累的数据回灌到排程里，选址和调度放进同一个目标函数求解。分开做的时候，两边的结论经常互相打架。<br>
 **2026 中国运筹学会运筹竞赛（本科组）· 国家一等奖 金奖** · *代码未公开（赛题约束）*
 
 **长江渔业生态演化与人类活动效应评估** · `复杂网络` `动力学建模` `情景模拟`<br>
-以多营养级食物网为骨架建动力学模型，把捕捞强度、航运干扰作为可控输入，评估不同情景下种群的长期演化路径与稳态偏移。<br>
+用多营养级食物网搭动力学模型，把捕捞强度和航运干扰作为可调的输入，看不同情景下各营养级的种群长期会稳定在什么水平。<br>
 **广州高校数学建模竞赛 · 三等奖**
 
 **正大杯市场调研（第 15 / 16 届）** · `问卷设计` `统计检验`<br>
-团队数据分析负责人：从清洗到交叉分析，负责把一堆频数表收敛成能拿上台讲的结论。
+十五届和十六届都参加了，负责团队的数据分析，从清洗、交叉分析一直做到把结果讲清楚。
 
 **霓窗仔 · 岭南文化 IP 文创设计** · `文化转译` `视觉系统`<br>
-把骑楼、满洲窗这些地域符号拆成可复用的图形语汇，做成一套能延展到实物的视觉系统。
+从骑楼和满洲窗里提取图形元素，整理成一套可以反复使用的视觉语言，再做延展到实物上。
 
 ### Science / 研究
 
 **Beyond Model Complexity: The Incremental Value of Volatility Features in Multi-Horizon Stock Risk Prediction**<br>
-M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial Intelligence, Guangdong University of Finance*<br>
-把「模型越复杂越好」当作待检验的假设：在多个预测期限上，分别度量波动率特征与模型容量各自贡献了多少增益，看风险预测的提升究竟来自特征侧，还是只来自加深加宽。<br>
-*Forthcoming · 2026.12 · 预印本与 DOI 待补*
+M. Lin · J. Bi · J. Hu · K. Yan, *School of Data Science and Artificial Intelligence, Guangdong University of Finance*<br>
+文章讨论的是一个被默认很久的假设，即模型越复杂，风险预测就越准。我们在多个预测期限上做对照，把波动率特征带来的增益、加深加宽模型带来的增益分开度量，看提升究竟来自哪一边。<br>
+*2026.12 待刊，预印本与 DOI 之后补上*
 
 ### Stack / 技术栈
 
@@ -80,7 +80,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 </p>
 
 <p align="center">
-  <sub>图标之外：运筹优化 · 时空预测 · 网络动力学 · 情景模拟</sub>
+  <sub>运筹优化 · 时空预测 · 网络动力学 · 情景模拟</sub>
 </p>
 
 ### Experience / 经历
@@ -90,7 +90,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--%E8%87%B3%E4%BB%8A-cf222e?style=flat-square" alt="2024.09 – 至今" height="20"></td>
     <td valign="top" width="800">
       <b>助理班主任 · 班级学习委员</b> @ <a href="https://www.gduf.edu.cn"><b>广东金融学院</b></a>
-      <blockquote><i>带一个新生班，从入学筹备走到学期中段。</i></blockquote>
+      <blockquote><i>第一次完整带一个班，从开学前的筹备做到学期中段。</i></blockquote>
       <ul>
         <li>组织破冰活动、班委搭建与学业规划，累计协助解决二十余件具体问题</li>
         <li>牵头组建学习小组，组内零挂科，成员绩点均在 3.0 以上</li>
@@ -102,10 +102,10 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2026.01-0969da?style=flat-square" alt="2026.01" height="20"></td>
     <td valign="top" width="800">
       <b>文书</b> @ <b>清远市职教城党群服务中心</b>
-      <blockquote><i>基层公文写作的实战现场。</i></blockquote>
+      <blockquote><i>在基层单位写材料，写的东西当天就要发出去。</i></blockquote>
       <ul>
         <li>起草活动简报、工作总结、会议纪要，兼部分宣传材料编撰</li>
-        <li>熟悉基层行政流程与公文规范，把「写清楚」当成硬指标</li>
+        <li>熟悉基层行政流程与公文规范，把话写清楚比写漂亮更要紧</li>
       </ul>
     </td>
   </tr>
@@ -113,10 +113,10 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2025.06--07-8250df?style=flat-square" alt="2025.06 – 07" height="20"></td>
     <td valign="top" width="800">
       <b>深圳区域访问员</b> @ <b>中国社会科学院 · 中国社会状况综合调查（CSS）</b>
-      <blockquote><i>这段经历教会我的不是问卷，是样本为什么会偏。</i></blockquote>
+      <blockquote><i>入户之后才明白样本是怎么偏的。</i></blockquote>
       <ul>
         <li>入户访谈与数据采集，完成 82 份有效问卷的发放与核验</li>
-        <li>在入户现场理解抽样偏差与数据核验的实际约束，而非纸面定义</li>
+        <li>在入户现场理解抽样偏差与数据核验的实际约束，而不是纸面上的定义</li>
       </ul>
     </td>
   </tr>
@@ -124,23 +124,23 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 ### Honors / 荣誉
 
-> 🏅 **[View Awards →](AWARDS.md)** — 完整奖项、证书与服务记录
+> 🏅 **[View Awards →](AWARDS.md)**　完整奖项、证书和服务记录
 
-- **2026** — 中国运筹学会运筹竞赛（本科组）国家一等奖 · 金奖
-- **2026** — 第二十一届海峡两岸暨港澳地区大学生计算创新作品赛 · 三等奖
-- **2026** — 全国大学生数据分析科普竞赛 · 一等奖
-- **2026** — 校级「金融之星」·「优秀共青团员」·「十佳助班」
-- **2025** — 校级「优秀学生骨干」· 优秀学生一等奖学金 · 职业技能奖学金
-- **2025** — 广州高校数学建模竞赛 · 三等奖 ·「学风建设榜样青年讲师」
+- **2026**　中国运筹学会运筹竞赛（本科组）国家一等奖 · 金奖
+- **2026**　第二十一届海峡两岸暨港澳地区大学生计算创新作品赛 · 三等奖
+- **2026**　全国大学生数据分析科普竞赛 · 一等奖
+- **2026**　校级「金融之星」·「优秀共青团员」·「十佳助班」
+- **2025**　校级「优秀学生骨干」· 优秀学生一等奖学金 · 职业技能奖学金
+- **2025**　广州高校数学建模竞赛 · 三等奖 ·「学风建设榜样青年讲师」
 
 <sub>证书：CDA 数据分析师（一级）· CET-6 · 全国计算机二级 · 银行从业资格 · 中国社会科学院访问员</sub>
 
 ### Elsewhere / 别处
 
-公开仓库 **2** 个，过去一年提交 **125** 次——大部分时间埋在地图和小程序里。碎片不进主页：要么进仓库，要么进简历。
+公开的仓库只有两个，过去一年提交一百多次，大部分时间花在地图和小程序上。零散的东西我没有搬到主页上，做出来的都放在仓库里。
 
-正在找数据分析、运筹优化方向的实习与研究机会。如果你手上有一个「说不清楚但感觉能算」的问题，欢迎来信：**[lanmangin@outlook.com](mailto:lanmangin@outlook.com)**
+我在找数据分析或者运筹优化方向的实习和研究机会。如果你手上有个说不清楚但感觉能算的问题，欢迎写信给我，**[lanmangin@outlook.com](mailto:lanmangin@outlook.com)**
 
 ---
 
-<sub>只写能验证的事。最后更新：2026.11</sub>
+<sub>最后更新 2026.11</sub>
