@@ -62,21 +62,19 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 ### Stack / 技术栈
 
-<table align="center">
-  <tr>
-    <td align="center" width="380"><sub><b>数据 · Data</b></sub></td>
-    <td align="center" width="380"><sub><b>构建 · Build</b></sub></td>
-    <td align="center" width="380"><sub><b>平台 · Platform</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="42" alt="Python, scikit-learn, MySQL, D3"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" height="42" alt="JavaScript, Node.js, HTML, CSS"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,github&theme=dark" height="42" alt="Cloudflare, Workers, Vercel, GitHub"></td>
-  </tr>
-</table>
+<p align="center">
+  <sub><b>数据</b> · Data</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="40" alt="Python, scikit-learn, MySQL, D3">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>构建</b> · Build</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css&theme=dark" height="40" alt="JavaScript, Node.js, HTML, CSS">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>平台</b> · Platform</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,github&theme=dark" height="40" alt="Cloudflare, Workers, Vercel, GitHub">
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,latex,markdown,bash,powershell,npm&theme=dark" height="38" alt="VS Code, Git, LaTeX, Markdown, Bash, PowerShell, npm">
+  <img src="https://skillicons.dev/icons?i=vscode,git,latex,markdown,bash,powershell,npm&theme=dark" height="36" alt="VS Code, Git, LaTeX, Markdown, Bash, terminal, npm">
 </p>
 
 <p align="center">
