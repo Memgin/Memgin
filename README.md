@@ -60,7 +60,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 ### Stack / 技术栈
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="34%"><sub><b>数据 · Data</b></sub></td>
     <td align="center" width="33%"><sub><b>构建 · Build</b></sub></td>
@@ -83,7 +83,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 ### Experience / 经历
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--%E8%87%B3%E4%BB%8A-cf222e?style=flat-square" alt="2024.09 – 至今" height="20"></td>
     <td valign="top">
