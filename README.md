@@ -1,24 +1,13 @@
 <h1 align="center">Memgin</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E8%AF%B4%E4%B8%8D%E6%B8%85%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E8%83%BD%E7%AE%97%E7%9A%84%E6%A0%B7%E5%AD%90&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=9198A1">
-    <img src="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E8%AF%B4%E4%B8%8D%E6%B8%85%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E8%83%BD%E7%AE%97%E7%9A%84%E6%A0%B7%E5%AD%90&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=57606A" alt="数据分析 · 运筹优化 · 地理信息">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?lines=Turning+Data+Into+Decisions&amp;size=26&amp;font=JetBrains+Mono&amp;letterSpacing=6px&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=52&amp;repeat=false" alt="Turning Data Into Decisions">
 </p>
+
+<p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work--精选项目"><img src="https://img.shields.io/badge/PROJECTS-0077B5?style=for-the-badge" height="32" alt="Projects"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/AWARDS-25D366?style=for-the-badge" height="32" alt="Awards"></a></p>
 
 <p align="center">
   <sub>B.Sc. Data Science &amp; Big Data · Class of 2028 · Qingyuan / Shenzhen, CN · CDA Level I Analyst</sub>
-</p>
-
-<p align="center">
-  <a href="#now--现在">Now</a> ·
-  <a href="#selected-work--精选项目">Selected Work</a> ·
-  <a href="#science--研究">Science</a> ·
-  <a href="#stack--技术栈">Stack</a> ·
-  <a href="#honors--荣誉">Honors</a> ·
-  <a href="AWARDS.md">Awards</a> ·
-  <a href="mailto:lanmangin@outlook.com">Email</a>
 </p>
 
 ---
