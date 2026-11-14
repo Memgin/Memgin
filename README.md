@@ -62,9 +62,9 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 <table align="center">
   <tr>
-    <td align="center" width="34%"><sub><b>数据 · Data</b></sub></td>
-    <td align="center" width="33%"><sub><b>构建 · Build</b></sub></td>
-    <td align="center" width="33%"><sub><b>平台 · Platform</b></sub></td>
+    <td align="center" width="300"><sub><b>数据 · Data</b></sub></td>
+    <td align="center" width="300"><sub><b>构建 · Build</b></sub></td>
+    <td align="center" width="300"><sub><b>平台 · Platform</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="42" alt="Python, scikit-learn, MySQL, D3"></td>
