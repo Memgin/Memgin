@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Memgin — Data Analysis, Operations Research, Geospatial">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#16324F"/>
-      <stop offset="1" stop-color="#22476F"/>
+      <stop offset="0" stop-color="#2E1508"/>
+      <stop offset="0.55" stop-color="#8A3D1B"/>
+      <stop offset="1" stop-color="#C2703D"/>
     </linearGradient>
     <style>
-      .title{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:74px;letter-spacing:2px;fill:#F8FAFC}
-      .desc{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500;font-size:19px;letter-spacing:3px;fill:#9DC1E8}
+      .title{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700;font-size:74px;letter-spacing:2px;fill:#FFF8F1}
+      .desc{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500;font-size:19px;letter-spacing:3px;fill:#F3CCA8}
       .fade1{animation:fade 1.1s ease-out both}
       .fade2{animation:fade 1.1s ease-out .35s both}
       @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
