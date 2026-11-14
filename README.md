@@ -43,6 +43,14 @@
 **霓窗仔 · 岭南文化 IP 文创设计** · `文化转译` `视觉系统`<br>
 从骑楼和满洲窗里提取图形元素，整理成一套可以反复使用的视觉语言，再做延展到实物上。
 
+<p align="center">
+  <img src="img/neichuang/street.webp" height="200" alt="霓窗仔 街头版">
+  <img src="img/neichuang/harbor.webp" height="200" alt="霓窗仔 海港版">
+  <img src="img/neichuang/festival.webp" height="200" alt="霓窗仔 节庆版">
+</p>
+
+<p align="center"><sub>街头版 · 海港版 · 节庆版，同一套图形语汇的三种落地</sub></p>
+
 ### Science / 研究
 
 **Beyond Model Complexity: The Incremental Value of Volatility Features in Multi-Horizon Stock Risk Prediction**<br>
