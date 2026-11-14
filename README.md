@@ -1,4 +1,5 @@
-<h1 align="center">Memgin</h1>
+<p><pre align="center">
+<strong>Memgin /</strong> <a href="#selected-work--精选项目">项目</a> / <a href="#science--研究">论文</a> / <a href="#stack--技术栈">技术栈</a> / <a href="#experience--经历">经历</a> / <a href="AWARDS.md">奖项</a></pre></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Turning+Data+Into+Decisions&amp;size=26&amp;font=JetBrains+Mono&amp;letterSpacing=6px&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=52&amp;repeat=false" alt="Turning Data Into Decisions">
