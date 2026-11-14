@@ -1,11 +1,10 @@
-<p><pre align="center">
-<strong>Memgin /</strong> <a href="#selected-work--精选项目">项目</a> / <a href="#science--研究">论文</a> / <a href="#stack--技术栈">技术栈</a> / <a href="#experience--经历">经历</a> / <a href="AWARDS.md">奖项</a></pre></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Turning+Data+Into+Decisions&amp;size=26&amp;font=JetBrains+Mono&amp;letterSpacing=6px&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=52&amp;repeat=false" alt="Turning Data Into Decisions">
+  <img src="img/banner.svg" alt="Memgin — Data Analysis, Operations Research, Geospatial" width="1200">
 </p>
 
-<p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work--精选项目"><img src="https://img.shields.io/badge/PROJECTS-0077B5?style=for-the-badge" height="32" alt="Projects"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/AWARDS-25D366?style=for-the-badge" height="32" alt="Awards"></a></p>
+<p align="center">
+  <sub><a href="https://github.com/Memgin">GitHub</a> · <a href="mailto:lanmangin@outlook.com">Email</a> · <a href="#selected-work--精选项目">项目</a> · <a href="#science--研究">论文</a> · <a href="AWARDS.md">奖项</a></sub>
+</p>
 
 <p align="center">
   <sub>B.Sc. Data Science &amp; Big Data · Class of 2028 · Qingyuan / Shenzhen, CN · CDA Level I Analyst</sub>
