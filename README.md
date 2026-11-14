@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Turning+Data+Into+Decisions;Operations+Research+%26+Geospatial+Modeling;From+Fuzzy+Questions+to+Computable+Metrics" alt="Turning Data Into Decisions"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=Turning+Data+Into+Decisions;Operations+Research+%26+Geospatial+Modeling;From+Fuzzy+Questions+to+Computable+Metrics" alt="Turning Data Into Decisions"></a>
 </p>
 
 <p align="center"><a href="https://github.com/Memgin"><img src="https://img.shields.io/badge/GitHub-3E2A22?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"></a><a href="mailto:lanmangin@outlook.com"><img src="https://img.shields.io/badge/Email-Contact_Me-C0392B?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email"></a><a href="#selected-work--精选项目"><img src="https://img.shields.io/badge/Projects-B45309?style=for-the-badge" height="32" alt="Projects"></a><a href="#science--研究"><img src="https://img.shields.io/badge/Paper-7C2D12?style=for-the-badge" height="32" alt="Paper"></a><a href="AWARDS.md"><img src="https://img.shields.io/badge/Awards-A13D5C?style=for-the-badge" height="32" alt="Awards"></a></p>
