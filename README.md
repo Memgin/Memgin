@@ -1,8 +1,10 @@
 <h1 align="center">Memgin</h1>
 
 <p align="center">
-  数据分析 · 运筹优化 · 地理信息<br>
-  把模糊的问题拆成可度量的指标，再把它算清楚。
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E5%8F%AF%E5%BA%A6%E9%87%8F%E7%9A%84%E6%8C%87%E6%A0%87%3B%E5%86%8D%E6%8A%8A%E5%AE%83%E7%AE%97%E6%B8%85%E6%A5%9A&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=9198A1">
+    <img src="https://readme-typing-svg.demolab.com?lines=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20%E8%BF%90%E7%AD%B9%E4%BC%98%E5%8C%96%20%C2%B7%20%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%3B%E6%8A%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E9%97%AE%E9%A2%98%E6%8B%86%E6%88%90%E5%8F%AF%E5%BA%A6%E9%87%8F%E7%9A%84%E6%8C%87%E6%A0%87%3B%E5%86%8D%E6%8A%8A%E5%AE%83%E7%AE%97%E6%B8%85%E6%A5%9A&center=true&vCenter=true&width=560&height=44&size=20&pause=1400&repeat=false&color=57606A" alt="数据分析 · 运筹优化 · 地理信息">
+  </picture>
 </p>
 
 <p align="center">
@@ -62,9 +64,9 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 
 <table align="center">
   <tr>
-    <td align="center" width="300"><sub><b>数据 · Data</b></sub></td>
-    <td align="center" width="300"><sub><b>构建 · Build</b></sub></td>
-    <td align="center" width="300"><sub><b>平台 · Platform</b></sub></td>
+    <td align="center" width="380"><sub><b>数据 · Data</b></sub></td>
+    <td align="center" width="380"><sub><b>构建 · Build</b></sub></td>
+    <td align="center" width="380"><sub><b>平台 · Platform</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=py,sklearn,mysql,d3&theme=dark" height="42" alt="Python, scikit-learn, MySQL, D3"></td>
@@ -86,7 +88,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
 <table align="center">
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2024.09--%E8%87%B3%E4%BB%8A-cf222e?style=flat-square" alt="2024.09 – 至今" height="20"></td>
-    <td valign="top">
+    <td valign="top" width="800">
       <b>助理班主任 · 班级学习委员</b> @ <a href="https://www.gduf.edu.cn"><b>广东金融学院</b></a>
       <blockquote><i>带一个新生班，从入学筹备走到学期中段。</i></blockquote>
       <ul>
@@ -98,7 +100,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
   </tr>
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2026.01-0969da?style=flat-square" alt="2026.01" height="20"></td>
-    <td valign="top">
+    <td valign="top" width="800">
       <b>文书</b> @ <b>清远市职教城党群服务中心</b>
       <blockquote><i>基层公文写作的实战现场。</i></blockquote>
       <ul>
@@ -109,7 +111,7 @@ M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial In
   </tr>
   <tr>
     <td valign="top" width="134"><img src="https://img.shields.io/badge/2025.06--07-8250df?style=flat-square" alt="2025.06 – 07" height="20"></td>
-    <td valign="top">
+    <td valign="top" width="800">
       <b>深圳区域访问员</b> @ <b>中国社会科学院 · 中国社会状况综合调查（CSS）</b>
       <blockquote><i>这段经历教会我的不是问卷，是样本为什么会偏。</i></blockquote>
       <ul>
