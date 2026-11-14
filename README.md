@@ -12,8 +12,8 @@
 <p align="center">
   <a href="#now--现在">Now</a> ·
   <a href="#selected-work--精选项目">Selected Work</a> ·
-  <a href="#stack--技术栈">Stack</a> ·
   <a href="#science--研究">Science</a> ·
+  <a href="#stack--技术栈">Stack</a> ·
   <a href="#honors--荣誉">Honors</a> ·
   <a href="AWARDS.md">Awards</a> ·
   <a href="mailto:lanmangin@outlook.com">Email</a>
@@ -50,6 +50,13 @@
 
 **霓窗仔 · 岭南文化 IP 文创设计** · `文化转译` `视觉系统`<br>
 把骑楼、满洲窗这些地域符号拆成可复用的图形语汇，做成一套能延展到实物的视觉系统。
+
+### Science / 研究
+
+**Beyond Model Complexity: The Incremental Value of Volatility Features in Multi-Horizon Stock Risk Prediction**<br>
+M. Lin · J. Bi · J. Hu · K. Yan — *School of Data Science and Artificial Intelligence, Guangdong University of Finance*<br>
+把「模型越复杂越好」当作待检验的假设：在多个预测期限上，分别度量波动率特征与模型容量各自贡献了多少增益，看风险预测的提升究竟来自特征侧，还是只来自加深加宽。<br>
+*Forthcoming · 2026.12 · 预印本与 DOI 待补*
 
 ### Stack / 技术栈
 
@@ -90,11 +97,6 @@ write    LaTeX · Markdown · 调研报告与公文
 - **2025** — 广州高校数学建模竞赛 · 三等奖 ·「学风建设榜样青年讲师」
 
 <sub>证书：CDA 数据分析师（一级）· CET-6 · 全国计算机二级 · 银行从业资格 · 中国社会科学院访问员</sub>
-
-### Science / 研究
-
-**Manuscript in preparation** · *forthcoming 2026.12*<br>
-一篇在写。题目、合作者与 DOI 等定稿后补上——空着的位置，比编出来的引用可信。
 
 ### Elsewhere / 别处
 
